@@ -1,0 +1,3 @@
+# Project exclude paths
+/out/
+/springboot_consumer/target/
